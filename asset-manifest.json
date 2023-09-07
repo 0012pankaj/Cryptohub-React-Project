@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cryptohub-React-Project/static/css/main.1a9a7a29.css",
+    "main.js": "/Cryptohub-React-Project/static/js/main.22b27a19.js",
+    "index.html": "/Cryptohub-React-Project/index.html",
+    "main.1a9a7a29.css.map": "/Cryptohub-React-Project/static/css/main.1a9a7a29.css.map",
+    "main.22b27a19.js.map": "/Cryptohub-React-Project/static/js/main.22b27a19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.22b27a19.js"
+  ]
+}
